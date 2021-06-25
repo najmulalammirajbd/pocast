@@ -15,6 +15,12 @@ let allMusic = [
     artist: " অতিথিঃ মামুনুর রশিদ , সবুজকুঁড়ি ",
     img: "music-1",
     src: "music-1"
+  },
+  {
+    name: "ইসলাভো পডকাস্ট । ১ম পর্ব",
+    artist: " অতিথিঃ মামুনুর রশিদ , সবুজকুঁড়ি ",
+    img: "music-1",
+    src: "music-1"
   }
   // like this paste it and remember to give comma after ending of this bracket }
   // {
