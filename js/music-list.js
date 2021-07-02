@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: "ইসলাভো পডকাস্ট । ১ম পর্ব",
-    artist: " অতিথিঃ মামুনুর রশিদ , সবুজকুঁড়ি ",
+    name: " ISLAVO PODCAST । EP: 01 ",
+    artist: " Guest: Mamunur Rashid , Sobujkuri ",
     img: "music-1",
     src: "music-1"
   },
